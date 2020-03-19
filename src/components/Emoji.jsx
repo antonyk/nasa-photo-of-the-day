@@ -6,12 +6,7 @@ const emojiLib = [
   {name: "smiley", icon: '🚀'}
 ];
 
-
 export default function Emoji(props){
-
-  // const [icon, setIcon] = useState('');
-
-  // const { icon } = emojiLib.find(item => item.name === props.name);
 
   return (
     <span>
